@@ -35,12 +35,14 @@ async def send_announce(message: Message):
 
     await message.bot.send_message(
         ANNOUNCE_CHANNEL,
-        message.text
+        message.text,
+        disable_web_page_preview=True
     )
 
     await message.bot.send_message(
         VIP_GROUP,
-        message.text
+        message.text,
+        disable_web_page_preview=True
     )
 
     await message.answer("✅ Duyuru başarıyla paylaşıldı.")
