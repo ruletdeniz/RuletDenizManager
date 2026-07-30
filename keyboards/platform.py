@@ -4,38 +4,24 @@ PLATFORM_BUTTONS = InlineKeyboardMarkup(
     inline_keyboard=[
         [
             InlineKeyboardButton(
-                text="🤖 Analiz Botu",
-                url="https://t.me/RuletDenizBot"
+                text="👑 ANA SPONSOR - BETOVİS",
+                url="https://t.ly/ruletdenizovis"
             )
         ],
         [
             InlineKeyboardButton(
-                text="👑 VIP Lounge",
-                url="https://t.me/RuletDenizPrivate"
+                text="🎰 SAVOY",
+                url="https://ksln.link/ruletdnzsavoy"
             ),
             InlineKeyboardButton(
-                text="📸 Instagram",
-                url="https://www.instagram.com/ruletdeniz"
+                text="🎰 HİLTONBET",
+                url="https://girhilton.com/affiliates/?btag=1782699"
             )
         ],
         [
             InlineKeyboardButton(
-                text="🎥 YouTube",
-                url="https://www.youtube.com/@RuletDeniz"
-            ),
-            InlineKeyboardButton(
-                text="🎬 Yedek Kanal",
-                url="https://www.youtube.com/@RuletDenizYedek"
-            )
-        ],
-        [
-            InlineKeyboardButton(
-                text="🌐 Sponsorlar",
-                url="https://heylink.me/ruletdeniz"
-            ),
-            InlineKeyboardButton(
-                text="👤 Moderatör",
-                url="https://t.me/RdenizDestek"
+                text="👤 MODERATÖR",
+                url="https://t.me/Rdenizdestek"
             )
         ]
     ]
