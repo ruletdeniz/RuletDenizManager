@@ -32,6 +32,24 @@ PLATFORM_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
+                text="💬 SOHBET KANALI",
+                url="https://t.me/RuletDenizPrivate"
+            )
+        ],
+        [
+            InlineKeyboardButton(
+                text="🛡️ YEDEK SOHBET",
+                url="https://t.me/ruletdenizvip"
+            )
+        ],
+        [
+            InlineKeyboardButton(
+                text="▶️ YOUTUBE",
+                url="https://youtube.com/@ruletdeniz"
+            )
+        ],
+        [
+            InlineKeyboardButton(
                 text="👤 MODERATÖR",
                 url="https://t.me/RdenizDestek"
             )
