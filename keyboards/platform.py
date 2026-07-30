@@ -4,6 +4,12 @@ PLATFORM_BUTTONS = InlineKeyboardMarkup(
     inline_keyboard=[
         [
             InlineKeyboardButton(
+                text="🤖 ANALİZ BOTU",
+                url="https://t.me/RuletDenizBot"
+            )
+        ],
+        [
+            InlineKeyboardButton(
                 text="👑 ANA SPONSOR - BETOVİS",
                 url="https://t.ly/ruletdenizovis"
             )
