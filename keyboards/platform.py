@@ -20,8 +20,14 @@ PLATFORM_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
+                text="🌐 SPONSORLAR",
+                url="https://ruletdeniz.com/"
+            )
+        ],
+        [
+            InlineKeyboardButton(
                 text="👤 MODERATÖR",
-                url="https://t.me/Rdenizdestek"
+                url="https://t.me/RdenizDestek"
             )
         ]
     ]
